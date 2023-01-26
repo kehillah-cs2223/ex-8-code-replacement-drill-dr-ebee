@@ -2,5 +2,5 @@
 song = ""
 # start a for-loop that repeats the inner code 5 times
 for i in range(5):
-    song += "la"
+    # update the `song` variable to include one more "la"
 print(song)
