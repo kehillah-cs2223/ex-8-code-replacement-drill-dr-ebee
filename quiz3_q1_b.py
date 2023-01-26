@@ -1,5 +1,5 @@
 # initialize song variable to an empty string
 song = ""
-for _ in range(5):
+# start a for-loop that repeats the inner code 5 times
     song += "la"
 print(song)
