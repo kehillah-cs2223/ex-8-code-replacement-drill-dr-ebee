@@ -1,0 +1,64 @@
+{
+  "tests": [
+    {
+      "name": "quiz3 q1 b",
+      "setup": "",
+      "run": "python quiz3_q1_b.py",
+      "input": "",
+      "output": "lalalalala",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "quiz3 q3",
+      "setup": "",
+      "run": "python quiz3_q3.py",
+      "input": "",
+      "output": "Hello,\r\nHow\r\nAre\r\nYou?",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "quiz3 q4",
+      "setup": "",
+      "run": "python quiz3_q4.py",
+      "input": "",
+      "output": "'hello' is spelled H-E-L-L-O\r\n'cat' is spelled C-A-T\r\n'difficulty' is spelled D-I-F-F-I-C-U-L-T-Y",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "quiz3 q5",
+      "setup": "",
+      "run": "python quiz3_q5.py",
+      "input": "",
+      "output": "Caesar: what should be in that 'Caesar'?",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "quiz3 q6 a",
+      "setup": "",
+      "run": "python quiz3_q6_a.py",
+      "input": "",
+      "output": "H*ll*, h*w *r* y**?",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "quiz3 q6 c",
+      "setup": "",
+      "run": "python quiz3_q6_c.py",
+      "input": "",
+      "output": "H*ll*, h*w *r* y**?",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
